@@ -1,0 +1,15 @@
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\Report\bin\Debug\net6.0\Report.exe
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\Report\bin\Debug\net6.0\Report.deps.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\Report\bin\Debug\net6.0\Report.runtimeconfig.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\Report\bin\Debug\net6.0\Report.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\Report\bin\Debug\net6.0\Report.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\Report\obj\Debug\net6.0\Report.csproj.AssemblyReference.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\Report\obj\Debug\net6.0\Report.GeneratedMSBuildEditorConfig.editorconfig
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\Report\obj\Debug\net6.0\Report.AssemblyInfoInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\Report\obj\Debug\net6.0\Report.AssemblyInfo.cs
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\Report\obj\Debug\net6.0\Report.csproj.CoreCompileInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\Report\obj\Debug\net6.0\Report.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\Report\obj\Debug\net6.0\refint\Report.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\Report\obj\Debug\net6.0\Report.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\Report\obj\Debug\net6.0\Report.genruntimeconfig.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\Report\obj\Debug\net6.0\ref\Report.dll

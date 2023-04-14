@@ -1,0 +1,17 @@
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\JSONRead\bin\Debug\net6.0\JSONRead.exe
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\JSONRead\bin\Debug\net6.0\JSONRead.deps.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\JSONRead\bin\Debug\net6.0\JSONRead.runtimeconfig.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\JSONRead\bin\Debug\net6.0\JSONRead.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\JSONRead\bin\Debug\net6.0\JSONRead.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\JSONRead\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\JSONRead\obj\Debug\net6.0\JSONRead.csproj.AssemblyReference.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\JSONRead\obj\Debug\net6.0\JSONRead.GeneratedMSBuildEditorConfig.editorconfig
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\JSONRead\obj\Debug\net6.0\JSONRead.AssemblyInfoInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\JSONRead\obj\Debug\net6.0\JSONRead.AssemblyInfo.cs
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\JSONRead\obj\Debug\net6.0\JSONRead.csproj.CoreCompileInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\JSONRead\obj\Debug\net6.0\JSONRead.csproj.CopyComplete
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\JSONRead\obj\Debug\net6.0\JSONRead.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\JSONRead\obj\Debug\net6.0\refint\JSONRead.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\JSONRead\obj\Debug\net6.0\JSONRead.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\JSONRead\obj\Debug\net6.0\JSONRead.genruntimeconfig.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\JSONRead\obj\Debug\net6.0\ref\JSONRead.dll

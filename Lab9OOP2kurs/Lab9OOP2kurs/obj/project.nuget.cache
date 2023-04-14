@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "zQmwH2XEFvk32n3NB2f6rMw2iCHZPPi5CT2iWkhJ52p+Pif9yxUAKtdP/l2LkoP1td9KHoNFZcJr4Uvxh4igVA==",
+  "success": true,
+  "projectFilePath": "D:\\НАВЧАННЯЯЯЯЯЯ\\Visual Studio\\Gitlab9\\Lab9OOP2kurs\\Lab9OOP2kurs\\Lab9OOP2kurs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

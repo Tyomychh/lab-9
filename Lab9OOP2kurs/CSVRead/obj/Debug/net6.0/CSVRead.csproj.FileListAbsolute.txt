@@ -1,0 +1,15 @@
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\CSVRead\bin\Debug\net6.0\CSVRead.exe
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\CSVRead\bin\Debug\net6.0\CSVRead.deps.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\CSVRead\bin\Debug\net6.0\CSVRead.runtimeconfig.json
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\CSVRead\bin\Debug\net6.0\CSVRead.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\CSVRead\bin\Debug\net6.0\CSVRead.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\CSVRead\obj\Debug\net6.0\CSVRead.csproj.AssemblyReference.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\CSVRead\obj\Debug\net6.0\CSVRead.GeneratedMSBuildEditorConfig.editorconfig
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\CSVRead\obj\Debug\net6.0\CSVRead.AssemblyInfoInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\CSVRead\obj\Debug\net6.0\CSVRead.AssemblyInfo.cs
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\CSVRead\obj\Debug\net6.0\CSVRead.csproj.CoreCompileInputs.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\CSVRead\obj\Debug\net6.0\CSVRead.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\CSVRead\obj\Debug\net6.0\refint\CSVRead.dll
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\CSVRead\obj\Debug\net6.0\CSVRead.pdb
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\CSVRead\obj\Debug\net6.0\CSVRead.genruntimeconfig.cache
+D:\НАВЧАННЯЯЯЯЯЯ\Visual Studio\Gitlab9\Lab9OOP2kurs\CSVRead\obj\Debug\net6.0\ref\CSVRead.dll
